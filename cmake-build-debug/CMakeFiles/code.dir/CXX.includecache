@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/keithlancaster/Library/Mobile Documents/com~apple~CloudDocs/UNR/CS202/lectures/SOLID/code/DockWorker.h
+IEmployee.h
+/Users/keithlancaster/Library/Mobile Documents/com~apple~CloudDocs/UNR/CS202/lectures/SOLID/code/IEmployee.h
+Person.h
+/Users/keithlancaster/Library/Mobile Documents/com~apple~CloudDocs/UNR/CS202/lectures/SOLID/code/Person.h
+
+/Users/keithlancaster/Library/Mobile Documents/com~apple~CloudDocs/UNR/CS202/lectures/SOLID/code/IEmployee.h
+
+/Users/keithlancaster/Library/Mobile Documents/com~apple~CloudDocs/UNR/CS202/lectures/SOLID/code/Manager.h
+IEmployee.h
+/Users/keithlancaster/Library/Mobile Documents/com~apple~CloudDocs/UNR/CS202/lectures/SOLID/code/IEmployee.h
+Person.h
+/Users/keithlancaster/Library/Mobile Documents/com~apple~CloudDocs/UNR/CS202/lectures/SOLID/code/Person.h
+
+/Users/keithlancaster/Library/Mobile Documents/com~apple~CloudDocs/UNR/CS202/lectures/SOLID/code/Person.h
+string
+-
+
+/Users/keithlancaster/Library/Mobile Documents/com~apple~CloudDocs/UNR/CS202/lectures/SOLID/code/main.cpp
+iostream
+-
+vector
+-
+Manager.h
+/Users/keithlancaster/Library/Mobile Documents/com~apple~CloudDocs/UNR/CS202/lectures/SOLID/code/Manager.h
+DockWorker.h
+/Users/keithlancaster/Library/Mobile Documents/com~apple~CloudDocs/UNR/CS202/lectures/SOLID/code/DockWorker.h
+
